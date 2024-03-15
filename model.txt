@@ -1,0 +1,11 @@
+{
+  questionText: 'What is the name of Prime Minister of India',
+  options: [
+    { id: 1, optionVotes: 0, optionText: 'Narendra' },
+    { id: 2, optionVotes: 0, optionText: 'Annamalai' },
+    { id: 3, optionVotes: 0, optionText: 'Amit Shah' },
+    { id: 4, optionVotes: 0, optionText: 'Yogi Adityanath' }
+  ],
+  correctId: 3,
+  totalVotes: 0
+}
