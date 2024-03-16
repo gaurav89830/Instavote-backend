@@ -46,7 +46,3 @@ io.on("connection", (socket) => {
   // // If student or a teacher leaves the room
   // socket.on("disconnect", (data) => disconnect(data, socket.id, io));
 });
-
-//   socket.emit("welcome", "Welcome to the server baby!");
-//   socket.on("disconnect", console.log("User disconnected", socket.id));
-//   socket.on("chat", (data) => socket.broadcast.emit("receiveChat", data));
